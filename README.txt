@@ -1,9 +1,6 @@
-THEME: Enlight - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
 
 
-CREDITS:
+CREDITS
 
 Bootstrap
 http://getbootstrap.com/
